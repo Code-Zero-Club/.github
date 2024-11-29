@@ -1,6 +1,6 @@
 <p align="center">
   <img src="CodeZero_Logo.png" alt="Waktaverse Games 로고" width="500" />
 </p>
-<p align="center"><strong>Waktaverse Games, 왁물원의 게임을 한곳에</strong></p>
+<p align="center"><strong>2024 | Code : Zero</strong></p>
 <br>
-<p align="center">저희는 팬게임 정리 사이트 Waktaverse Games를 개발하고 있는 Waktaverse Games의 개발 팀입니다. 😆</p>
+<p align="center">해당 저장소는 광양고등학교의 유일한 개발 동아리 Code : Zero의 저장소 입니다. 😆</p>
